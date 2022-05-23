@@ -1,0 +1,28 @@
+* {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+img {
+	width: 90%;
+}
+
+.container {
+	position: relative;
+}
+.text-block {
+	position: absolute;
+	bottom: 3px;
+	left: 20px;
+	font-style: bold;
+	background-color: transparent;
+	color: white;
+}
+
+content {
+	margin-top: 20px;
+}
